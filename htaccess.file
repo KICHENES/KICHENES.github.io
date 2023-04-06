@@ -1,0 +1,1 @@
+RewriteRule ^discovering-personality-course(.*)$ discovering-personality-course/$1 [L,NC]
